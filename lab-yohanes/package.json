@@ -1,14 +1,14 @@
 {
-  "name": "01-redux-kanban",
+  "name": "31-redux-budget",
   "version": "1.0.0",
-  "description": "",
+  "description": "expenses-budget-dynamic-ui-rendering",
   "main": "webpack.config.js",
   "scripts": {
     "build": "webpack",
     "watch": "webpack-dev-server --inline --hot"
   },
   "keywords": [],
-  "author": "",
+  "author": "Yohan the Dev Don",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.0",
